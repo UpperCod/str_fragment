@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/uppercod/str-fragment#readme",
   "devDependencies": {
-    "rollup": "^2.39.0",
+    "rollup": "^3.29.5",
     "uvu": "^0.5.1"
   },
   "ava": {
